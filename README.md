@@ -13,4 +13,5 @@ It is used in multiple industries, including automatic driving and medical devic
 Why Python is used for deep learning? <br>
 Simplicity and Consistency <br>
 Python offers readable and concise codes. <br>
-Since machine learning and artificial intelligence involve complex algorithms, the simplicity of Python adds value and enables the creation of reliable systems. <br>
+Since machine learning and artificial intelligence involve complex algorithms.<br>
+The simplicity of Python adds value and enables the creation of reliable systems. <br>
