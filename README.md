@@ -8,4 +8,9 @@ By building computational models that are composed of multiple processing layers
 <br>
 Why is deep learning used? <br>
 Deep learning makes it faster and easier to interpret large amounts of data and form them into meaningful information. <br>
-It is used in multiple industries, including automatic driving and medical devices.
+It is used in multiple industries, including automatic driving and medical devices. <br>
+<br>
+Why Python is used for deep learning? <br>
+Simplicity and Consistency <br>
+Python offers readable and concise codes. <br>
+Since machine learning and artificial intelligence involve complex algorithms, the simplicity of Python adds value and enables the creation of reliable systems. <br>
