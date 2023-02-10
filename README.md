@@ -4,4 +4,8 @@ These neural networks attempt to simulate the behavior of the human brain. <br>
 <br>
 How does deep learning work? <br>
 Deep learning networks learn by discovering intricate structures in the data they experience. <br>
-By building computational models that are composed of multiple processing layers, the networks can create multiple levels of abstraction to represent the data.
+By building computational models that are composed of multiple processing layers, the networks can create multiple levels of abstraction to represent the data.<br>
+<br>
+Why is deep learning used? <br>
+Deep learning makes it faster and easier to interpret large amounts of data and form them into meaningful information. <br>
+It is used in multiple industries, including automatic driving and medical devices.
